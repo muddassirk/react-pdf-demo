@@ -5,15 +5,12 @@ const styles = StyleSheet.create({
   page: {
     flexDirection: 'row',
     backgroundColor: '#E4E4E4',
-    with: '100%',
-    height: '100vh'
   },
   section: {
     margin: 10,
-    padding: 10,
+    padding: 5,
     flexGrow: 1,
-    with: '100%',
-    height: '100vh'
+
   }
 });
 
